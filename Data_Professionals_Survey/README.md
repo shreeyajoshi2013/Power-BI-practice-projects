@@ -14,7 +14,9 @@ To analyze the dataset through a PowerBI dashboard and get insights on the data
 * Format: .xlsx
 * Size: Rows x columns - 630 x 28
 
+## Dashboard Screenshot
 
+![My Image](Power_Bi_Dashboard_screenshot.png)    
 
 ### References
 
