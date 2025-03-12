@@ -1,3 +1,3 @@
-# PoweBI practice projects
+# Power BI practice projects
 
-This repository contains projects of power BI, implemented for personal practice. 
+This repository contains projects of Power BI, implemented for personal practice. 
