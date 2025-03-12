@@ -2,7 +2,7 @@
 
 ## Objective
 
-To analyze the dataset through a PowerBI dashboard and get insights on the data
+To analyze the dataset of Data Professionals through a Power BI dashboard and get insights on the data.
 
 ## What is being done?
 
